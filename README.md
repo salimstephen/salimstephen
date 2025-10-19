@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salim
+# 👋 Hi, I'm Salim Stephen
 
 🌍 An aspiring **Data Scientist** and **Full-Stack Developer** passionate about solving real-world challenges through technology and data.
 

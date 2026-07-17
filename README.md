@@ -61,28 +61,31 @@ A content-based movie recommendation system that recommends similar movies using
 
 🔗 **Repository:** *(We'll insert the repository link after we upload the final project.)*
 
+## 📚 Certifications
 
+- 🎓 ALX Data Science Professional Certificate
+- 🤖 AI Career Essentials (AiCE) – ALX Africa
+- 💼 Professional Foundations – ALX Africa
+- 🚀 AI Starter Kit – ALX Africa
+- 📊 Data Analytics – ALX Africa
+- 🐍 Python Programming – ALX Africa
 
-### 💼 Let's Connect!
-📫 **LinkedIn:** [www.linkedin.com/in/otienostephen505](https://www.linkedin.com/in/otienostephen505)  
-🌐 **Portfolio (coming soon):** NoorTech Digital  
-📍 **Location:** Kenya  
+## 🌱 Currently Learning
 
+- Deepening my understanding of Machine Learning algorithms
+- Building end-to-end Data Science projects for my portfolio
+- Strengthening my SQL and Python problem-solving skills
+- Exploring model evaluation and recommendation systems
+- Preparing for opportunities in Data Science and Artificial Intelligence
 
+## 🤝 Let's Connect
+
+- 🌐 Portfolio: https://salimstephen.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/otienostephen991
+- 📧 Email: otienostephen991@gmail.com
+- 📍 Nairobi, Kenya
+
+I'm always open to connecting with fellow learners, data professionals, and opportunities in Data Science, Machine Learning, and Artificial Intelligence.
 
 ### ⚡ Fun Fact
 > _“Data is the language of the modern world. I’m learning to speak it fluently.”_
-
----
-
-⭐️ _Follow my journey as I grow from a learner at ALX Africa to a data-driven problem solver shaping the future of digital innovation!_
-
-
-
-
-### ⚡ Fun Fact
-> _“Data is the language of the modern world. I’m learning to speak it fluently.”_
-
----
-
-⭐️ _Follow my journey as I grow from a learner to a data-driven problem solver!_

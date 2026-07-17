@@ -12,11 +12,37 @@ I am a Junior Data Scientist passionate about transforming data into actionable 
 -  Built a **Content-Based Movie Recommendation System** using TF-IDF Vectorization and Cosine Similarity.
 -  Committed to continuous learning, open-source collaboration, and developing impactful real-world machine learning projects.
 
-### 🧩 What I’m Currently Working On
-- SQL data exploration and filtering exercises using the **United Nations datasets**  
-- Building a **portfolio of Jupyter Notebooks** to document my learning  
-- Exploring **Python for data cleaning, visualization, and storytelling**  
-- Creating projects that connect **technology, sustainability, and social impact**
+## 🛠 Technical Skills
+
+**Programming Languages**
+- Python
+- SQL
+
+**Machine Learning & Data Science**
+- Machine Learning
+- Data Analysis
+- Feature Engineering
+- Content-Based Recommendation Systems
+- TF-IDF Vectorization
+- Cosine Similarity
+- Pandas
+- NumPy
+- Scikit-learn
+
+**Data Visualization**
+- Matplotlib
+- Seaborn
+
+**Databases**
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+- Microsoft Excel
+- Google Sheets
 
 
 

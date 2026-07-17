@@ -6,11 +6,11 @@ I am a Junior Data Scientist passionate about transforming data into actionable 
 
 ## 🚀 About Me
 
-- 🎓 Completed six professional certifications through **ALX Africa**, specializing in Data Science, Artificial Intelligence, Python, and Data Analytics.
-- 📊 Passionate about Machine Learning, Data Analysis, and building practical data-driven solutions.
-- 💻 Experienced in Python, SQL, Scikit-learn, Pandas, NumPy, and data visualization tools.
-- 🤖 Built a **Content-Based Movie Recommendation System** using TF-IDF Vectorization and Cosine Similarity.
-- 📚 Committed to continuous learning, open-source collaboration, and developing impactful real-world machine learning projects.
+-  Completed six professional certifications through **ALX Africa**, specializing in Data Science, Artificial Intelligence, Python, and Data Analytics.
+-  Passionate about Machine Learning, Data Analysis, and building practical data-driven solutions.
+-  Experienced in Python, SQL, Scikit-learn, Pandas, NumPy, and data visualization tools.
+-  Built a **Content-Based Movie Recommendation System** using TF-IDF Vectorization and Cosine Similarity.
+-  Committed to continuous learning, open-source collaboration, and developing impactful real-world machine learning projects.
 
 ### 🧩 What I’m Currently Working On
 - SQL data exploration and filtering exercises using the **United Nations datasets**  

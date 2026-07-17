@@ -3,7 +3,6 @@
 ### Junior Data Scientist | Machine Learning Enthusiast
 
 I am a Junior Data Scientist passionate about transforming data into actionable insights through machine learning, data analysis, and practical problem-solving. I enjoy building data-driven solutions that solve real-world challenges while continuously expanding my skills through hands-on projects and lifelong learning.
----
 
 ## 🚀 About Me
 

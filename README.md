@@ -18,16 +18,16 @@ I am a Junior Data Scientist passionate about transforming data into actionable 
 - Python
 - SQL
 
-**Machine Learning & Data Science**
+**Machine Learning & Data Analytics**
 - Machine Learning
 - Data Analysis
+- Pandas
+- NumPy
+- Scikit-learn
 - Feature Engineering
 - Content-Based Recommendation Systems
 - TF-IDF Vectorization
 - Cosine Similarity
-- Pandas
-- NumPy
-- Scikit-learn
 
 **Data Visualization**
 - Matplotlib
@@ -43,6 +43,23 @@ I am a Junior Data Scientist passionate about transforming data into actionable 
 - VS Code
 - Microsoft Excel
 - Google Sheets
+
+## 📂 Featured Project
+
+### 🎬 Movie Recommendation System using Machine Learning
+
+**Technologies:** Python • Pandas • Scikit-learn • TF-IDF Vectorization • Cosine Similarity • Git • GitHub
+
+A content-based movie recommendation system that recommends similar movies using Natural Language Processing (NLP) techniques and machine learning.
+
+**Key Highlights**
+- Built a recommendation engine using TF-IDF Vectorization and Cosine Similarity.
+- Processed and cleaned movie metadata for feature extraction.
+- Applied NLP techniques to transform movie genres and descriptions into numerical feature vectors.
+- Implemented a recommendation function capable of suggesting similar movies based on user-selected titles.
+- Managed the complete project using Git and GitHub with proper documentation and version control.
+
+🔗 **Repository:** *(We'll insert the repository link after we upload the final project.)*
 
 
 

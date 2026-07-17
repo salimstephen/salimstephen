@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salim Stephen
+# 👋 Hi, I'm Stephen (Salim) Otieno
 
 ### Junior Data Scientist | Machine Learning Enthusiast
 

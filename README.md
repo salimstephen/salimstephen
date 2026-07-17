@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Salim Stephen
 
-🌍 An aspiring **Data Scientist** and **Full-Stack Developer** passionate about solving real-world challenges through technology and data.
+### Junior Data Scientist | Machine Learning Enthusiast
 
+I am a Junior Data Scientist passionate about transforming data into actionable insights through machine learning, data analysis, and practical problem-solving. I enjoy building data-driven solutions that solve real-world challenges while continuously expanding my skills through hands-on projects and lifelong learning.
 ---
 
-### 🚀 About Me
-- 📈 I started my journey in **Excel**, building a foundation in data analysis.  
-- 🎓 Currently learning **Data Science at [ALX Africa](https://www.alxafrica.com/)** — focusing on SQL, Python, and data visualization.  
-- 💻 I also have experience in **web development (React & WordPress)**.  
-- 🌙 Founder of **[NoorTech Digital](#)** — a creative studio focused on digital innovation and purpose-driven tech solutions.  
-- 🎯 My goal is to use **data-driven insights** to contribute to sustainable development and empower communities across Africa and beyond.  
+## 🚀 About Me
 
+- 🎓 Completed six professional certifications through **ALX Africa**, specializing in Data Science, Artificial Intelligence, Python, and Data Analytics.
+- 📊 Passionate about Machine Learning, Data Analysis, and building practical data-driven solutions.
+- 💻 Experienced in Python, SQL, Scikit-learn, Pandas, NumPy, and data visualization tools.
+- 🤖 Built a **Content-Based Movie Recommendation System** using TF-IDF Vectorization and Cosine Similarity.
+- 📚 Committed to continuous learning, open-source collaboration, and developing impactful real-world machine learning projects.
 
 ### 🧩 What I’m Currently Working On
 - SQL data exploration and filtering exercises using the **United Nations datasets**  

@@ -1,91 +1,116 @@
-# 👋 Hi, I'm Stephen (Salim) Otieno
+#  Hi, I'm Stephen (Salim) Otieno
 
-### Junior Data Scientist | Machine Learning Enthusiast
+### Data Science & Analytics | Python • SQL • Power BI
 
-I am a Junior Data Scientist passionate about transforming data into actionable insights through machine learning, data analysis, and practical problem-solving. I enjoy building data-driven solutions that solve real-world challenges while continuously expanding my skills through hands-on projects and lifelong learning.
+I'm a data science and analytics professional building practical skills through hands-on projects, structured learning, and real-world datasets.
 
-## 🚀 About Me
+My work focuses on data analysis, machine learning, business intelligence, and using data to understand and solve practical problems.
 
--  Completed six professional certifications through **ALX Africa**, specializing in Data Science, Artificial Intelligence, Python, and Data Analytics.
--  Passionate about Machine Learning, Data Analysis, and building practical data-driven solutions.
--  Experienced in Python, SQL, Scikit-learn, Pandas, NumPy, and data visualization tools.
--  Built a **Content-Based Movie Recommendation System** using TF-IDF Vectorization and Cosine Similarity.
--  Committed to continuous learning, open-source collaboration, and developing impactful real-world machine learning projects.
+I'm particularly interested in opportunities where I can continue developing as a data professional while contributing to meaningful analytical work.
 
-## 🛠 Technical Skills
+## 🛠 Skills & Tools
 
-**Programming Languages**
+**Programming & Data**
 - Python
 - SQL
-
-**Machine Learning & Data Analytics**
-- Machine Learning
-- Data Analysis
 - Pandas
 - NumPy
 - Scikit-learn
-- Feature Engineering
-- Content-Based Recommendation Systems
-- TF-IDF Vectorization
-- Cosine Similarity
 
-**Data Visualization**
+**Data Analysis & Visualization**
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Statistical Analysis
 - Matplotlib
 - Seaborn
+- Microsoft Excel
+- Power BI
 
-**Databases**
+**Machine Learning**
+- Machine Learning Fundamentals
+- Feature Engineering
+- Recommendation Systems
+- Natural Language Processing fundamentals
+- Cosine Similarity
+- TF-IDF
+
+**Databases & Tools**
 - MySQL
-
-**Tools**
-- Git
-- GitHub
 - Jupyter Notebook
 - VS Code
-- Microsoft Excel
-- Google Sheets
+- Git
+- GitHub
 
-## 📂 Featured Project
+## 📌 Featured Projects
 
-### 🎬 Movie Recommendation System using Machine Learning
+###  🎬 [Movie Recommendation System](https://github.com/salimstephen/movie-recommendation-project)
 
-**Technologies:** Python • Pandas • Scikit-learn • TF-IDF Vectorization • Cosine Similarity • Git • GitHub
+A machine learning project built with the MovieLens dataset to explore recommendation systems.
 
-A content-based movie recommendation system that recommends similar movies using Natural Language Processing (NLP) techniques and machine learning.
+The project includes:
+- Popularity-based recommendations
+- User-based collaborative filtering
+- User–movie matrix construction
+- Cosine similarity
+- Data exploration and transformation
+- Personalized movie recommendations
 
-**Key Highlights**
-- Built a recommendation engine using TF-IDF Vectorization and Cosine Similarity.
-- Processed and cleaned movie metadata for feature extraction.
-- Applied NLP techniques to transform movie genres and descriptions into numerical feature vectors.
-- Implemented a recommendation function capable of suggesting similar movies based on user-selected titles.
-- Managed the complete project using Git and GitHub with proper documentation and version control.
+**Tools**: Python • Pandas • NumPy • Scikit-learn • Jupyter Notebook
+### 📊 [E-commerce Sales Dashboard — Power BI](https://github.com/salimstephen/FUTURE_DS_01)
+A business analytics project focused on exploring e-commerce sales data and communicating business performance through an interactive Power BI dashboard.
 
-🔗 **Repository:** *(We'll insert the repository link after we upload the final project.)*
+**Tools**: Power BI • Power Query • DAX • Data Analysis • Data Visualization
+### 📚 [Data Science Learning Journey](https://github.com/salimstephen/Data_Science_Learning_Journey)
+A collection of hands-on exercises and projects documenting my progression through data analysis and data science.
 
-## 📚 Certifications
+The repository includes work with:
 
-- 🎓 ALX Data Science Professional Certificate
-- 🤖 AI Career Essentials (AiCE) – ALX Africa
-- 💼 Professional Foundations – ALX Africa
-- 🚀 AI Starter Kit – ALX Africa
-- 📊 Data Analytics – ALX Africa
-- 🐍 Python Programming – ALX Africa
+- Excel
+- SQL
+- Python
+- Pandas
+- NumPy
+- Data Visualization
+- Statistics
+- Exploratory Data Analysis
+- Machine Learning
+- NLP fundamentals
+- Maji Ndogo data projects
 
-## 🌱 Currently Learning
+This repository reflects my learning process and continued practice rather than a single finished project.
+## 🎓 Learning & Certifications
 
-- Deepening my understanding of Machine Learning algorithms
-- Building end-to-end Data Science projects for my portfolio
-- Strengthening my SQL and Python problem-solving skills
-- Exploring model evaluation and recommendation systems
-- Preparing for opportunities in Data Science and Artificial Intelligence
+I have completed professional learning programs through ALX Africa, including:
+- Data Science
+- Machine learning
+- Python Programming
+- Data Analytics
+- AI Career Essentials (AiCE)
+- Professional Foundations
+- AI Starter Kit
+
+I also hold an IBM SkillsBuild Data Fundamentals badge.
+
+## 🌱 Currently Developing
+
+I'm continuing to strengthen my skills in:
+
+- Python for Data Science
+- SQL and database analysis
+- Machine Learning
+- Data visualization and storytelling
+- Business analytics
+- Building and documenting end-to-end data projects
+
+My long-term goal is to grow into a well-rounded Data Scientist with strong foundations in analytics, machine learning, and practical problem-solving.
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: https://salimstephen.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/otienostephen991
-- 📧 Email: otienostephen991@gmail.com
-- 📍 Nairobi, Kenya
+- 🌐 [Portfolio](https://salimstephen.vercel.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/otieno-stephen)
+- 🐙 [GitHub](https://github.com/salimstephen)
 
-I'm always open to connecting with fellow learners, data professionals, and opportunities in Data Science, Machine Learning, and Artificial Intelligence.
+I'm open to connecting with people working in Data Science, Data Analytics, Business Intelligence, and related fields.
 
 ### ⚡ Fun Fact
 > _“Data is the language of the modern world. I’m learning to speak it fluently.”_

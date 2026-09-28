@@ -2,7 +2,7 @@
 
 ### Data Science & Analytics | Python • SQL • Power BI
 
-I'm a data science and analytics professional building practical skills through hands-on projects, structured learning, and real-world datasets.
+I'm a data science and analytics practitioner building practical skills through hands-on projects, structured learning, and real-world datasets.
 
 My work focuses on data analysis, machine learning, business intelligence, and using data to understand and solve practical problems.
 
@@ -111,6 +111,3 @@ My long-term goal is to grow into a well-rounded Data Scientist with strong foun
 - 🐙 [GitHub](https://github.com/salimstephen)
 
 I'm open to connecting with people working in Data Science, Data Analytics, Business Intelligence, and related fields.
-
-### ⚡ Fun Fact
-> _“Data is the language of the modern world. I’m learning to speak it fluently.”_
